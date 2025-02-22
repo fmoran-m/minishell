@@ -3,6 +3,5 @@
 .vscode/
 a.out
 *.o
-minishell
 libft/libft.a
 exe
